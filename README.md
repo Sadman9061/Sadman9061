@@ -2,7 +2,7 @@
 
 
 
-<img align="right" width="1200" height="600" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1702125711~exp=1702126311~hmac=457717932219947323a4eb98f22bb343ef294aaa82f7fa601b13608e4026a67c" alt="" />
+<img align="right" width="1000"  src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1702125711~exp=1702126311~hmac=457717932219947323a4eb98f22bb343ef294aaa82f7fa601b13608e4026a67c" alt="" />
 
 
 
