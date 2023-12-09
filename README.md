@@ -105,7 +105,7 @@
 <div align="center"> 
  
 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=sadman9061&label=Profile%20views&color=0e75b6&style=flat" alt="Sadman9061" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sadman9061&label=Profile%20views&color=0e75b6&style=flat" alt="Sadman9061" /> </p>
 
 
 <a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sadman9061&theme=dark" alt="GitHub Streak" /></a> 
