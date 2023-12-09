@@ -2,12 +2,13 @@
 
 
 
-<img align="right" width="1000"  src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1702125711~exp=1702126311~hmac=457717932219947323a4eb98f22bb343ef294aaa82f7fa601b13608e4026a67c" alt="" />
+<img align="right" width="1000" height="500" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=740&t=st=1702125711~exp=1702126311~hmac=457717932219947323a4eb98f22bb343ef294aaa82f7fa601b13608e4026a67c" alt="" />
+
+<p>.</p>
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1 align="center">Front-End Developer</h1>
+
 <h3 align="center">Hi 👋, I'm Sadman Sakib Azad, a passionate frontend developer from Bangladesh</h3>
 
 
@@ -39,6 +40,9 @@
   
 </div> 
 </div>
+
+
+<br/>
 
 
   <h3> 🏢 Work Stats </h3>
@@ -118,9 +122,9 @@
 
 
 
-  <h3> 🏢 Work Stats </h3>
+  <h3>👀 Overview </h3>
 
-## 👀 Overview
+
 
 - 🌱 I’m currently learning **new technologies and staying updated in the ever-evolving field of web development.**
 
