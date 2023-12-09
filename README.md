@@ -1,4 +1,4 @@
-![text comes here..](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" width="500px" align="center" />
 <h1 align="center">Hi 👋, I'm Sadman Sakib Azad</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
