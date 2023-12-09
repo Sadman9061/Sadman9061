@@ -61,16 +61,10 @@
 
 <br/>
 
-<div align="center">
 
-<p align="center">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sadman-sakib-azad-50952718b/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sadman-sakib-azad-50952718b/" height="30" width="40" /></a><a href="https://www.facebook.com/sadman.sakib.azad/" target="blank"><img align="end" src="https://img.freepik.com/premium-vector/facebook-app-icon-social-media-logo-vector-illustration-meta_277909-402.jpg?w=740" height="30" width="40" /></a><a href="mailto:sadmansakib.dev@gmail.com" target="blank"><img align="right" src="https://previews.123rf.com/images/theerakit/theerakit1807/theerakit180700003/103999650-outline-email-icon-in-trendy-flat-style-on-white-background-outline-email-symbol-for-your-web-site.jpg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sadman-sakib-azad-50952718b/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sadman-sakib-azad-50952718b/" height="30" width="40" /></a><a href="https://www.facebook.com/sadman.sakib.azad/" target="blank"><img align="left" src="https://img.freepik.com/premium-vector/facebook-app-icon-social-media-logo-vector-illustration-meta_277909-402.jpg?w=740" height="30" width="40" /></a><a href="mailto:sadmansakib.dev@gmail.com" target="blank"><img align="left" src="https://previews.123rf.com/images/theerakit/theerakit1807/theerakit180700003/103999650-outline-email-icon-in-trendy-flat-style-on-white-background-outline-email-symbol-for-your-web-site.jpg" height="30" width="40" /></a>
   
-</p>
-
-   
-</div>
 
 
 
