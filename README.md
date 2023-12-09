@@ -64,7 +64,10 @@
 -  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sadman-sakib-azad-50952718b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sadman-sakib-azad-50952718b/" height="30" width="40" /></a>
 
 
-- sadmansakib.dev@gmail.com.
+-  <a href="mailto:sadmansakib.dev@gmail.com" target="blank"><img align="center" src="https://previews.123rf.com/images/theerakit/theerakit1807/theerakit180700003/103999650-outline-email-icon-in-trendy-flat-style-on-white-background-outline-email-symbol-for-your-web-site.jpg" height="30" width="40" /></a>
+
+
+- sadmansakib.dev@gmail.com
 
 
 
