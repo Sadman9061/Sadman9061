@@ -29,7 +29,7 @@
   
 <div align="left"> 
   <h3> 👱‍♂️ About Me </h3>
-<br/>
+
   - 🤔 &nbsp; Detail-oriented and organized web developer.
   - 🎓 &nbsp; Proficient in HTML, CSS, Tailwind CSS, and JavaScript.
   - 💼 &nbsp; Strong foundation in React.js for dynamic and responsive UIs.
@@ -46,7 +46,7 @@
 
 
   <h3> 🏢 Work </h3>
-<br/>
+
 <p>
   I specialize in front-end and back-end development, with expertise in HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, MongoDB, Git, and Github. My soft skills include strong observation, decision-making, communication, and adaptability. I have a successful track record in project development, contributing to projects like WorkFINDER, HostiZen, and DRIVETRON. I can create user-friendly interfaces, implement responsive design, and ensure secure authentication. I am fluent in Bangla and English, with conversational Hindi skills.
 </p>
@@ -59,7 +59,7 @@
 
   <h3> 📱 Contact </h3>
 
-<br/>
+
 
 -  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sadman-sakib-azad-50952718b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sadman-sakib-azad-50952718b/" height="30" width="40" /></a>
 
