@@ -67,7 +67,6 @@
 -  <a href="mailto:sadmansakib.dev@gmail.com" target="blank"><img align="center" src="https://previews.123rf.com/images/theerakit/theerakit1807/theerakit180700003/103999650-outline-email-icon-in-trendy-flat-style-on-white-background-outline-email-symbol-for-your-web-site.jpg" height="30" width="40" /></a>
 
 
-- sadmansakib.dev@gmail.com
 
 
 
