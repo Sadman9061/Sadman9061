@@ -45,7 +45,7 @@
 <br/>
 
 
-  <h3> 🏢 Work </h3>
+  <h3> 🏢 What do I do? </h3>
 
 <p>
   I specialize in front-end and back-end development, with expertise in HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, MongoDB, Git, and Github. My soft skills include strong observation, decision-making, communication, and adaptability. I have a successful track record in project development, contributing to projects like WorkFINDER, HostiZen, and DRIVETRON. I can create user-friendly interfaces, implement responsive design, and ensure secure authentication. I am fluent in Bangla and English, with conversational Hindi skills.
