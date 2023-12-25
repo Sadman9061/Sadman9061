@@ -2,7 +2,7 @@
 
 
 
-<img align="right" width="1000"  src="https://i.ibb.co/Q9HGcbR/Navy-Blue-Geometric-Technology-Linked-In-Banner.gif" alt="" />
+<img align="right" width="1000"  src="https://i.ibb.co/Gxmy52Q/Sadman-Sakib-Azad-Banner.gif" alt="" />
 
 <p>.</p>
 
