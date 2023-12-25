@@ -2,7 +2,7 @@
 
 
 
-<img align="right" width="1000" height="500" src="https://i.ibb.co/5W0xzRp/Blue-And-White-Modern-Minimal-Business-Channel-Youtube-Banner.gif" alt="" />
+<img align="right" width="1000"  src="https://i.ibb.co/5W0xzRp/Blue-And-White-Modern-Minimal-Business-Channel-Youtube-Banner.gif" alt="" />
 
 <p>.</p>
 
